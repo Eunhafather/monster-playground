@@ -1,3 +1,3 @@
 # 포켓몬 친구 연구소
 
-v0.29: weight comparisons show two real objects resting on balance pans, numbered 1 and 2 above each object. Choices show matching object/number/name in left-to-right order. Eleven diverse pairs cover fruits, detailed parcels, books, everyday objects, and full/empty water bottles. Lower pan always carries the heavier object; original numeric values and heavier/lighter answer logic are preserved. Professor hints and explanations use the same numbered scale. All learning stages covered; records, navigation, single-row pattern fixes and paused 3D unchanged.
+v0.30: wrong answers immediately read the same professor explanation as the replay button, without an introductory consolation phrase. Korean TTS receives spelled-out native numeral counters (4개 → 네 개, 5권 → 다섯 권), ordinal positions and Sino-Korean numbered labels. Displayed text, grading and learning records unchanged.
