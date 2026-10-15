@@ -1,3 +1,3 @@
 # 포켓몬 친구 연구소
 
-v0.32: empty/not-yet-loaded voice lists no longer suppress speech; device default voices selected using lang when named voices are unavailable. Resume the speech engine on playback, cancel stale timers, and show start/error diagnostics. Explicit Listen and option audio buttons play on demand even if automatic audio is off; automatic audio still respects the stored preference. Professor style, numeral pronunciation, centered artwork, grading and records preserved.
+v0.33: eight opposite pairs (16 states) illustrated with accessible SVG scenes in both question and all choices. Also illustrates phrase-to-picture adjective choices, singular/plural nouns and location sentences. English wording, IDs, answer logic, captions, replay audio, sound fixes and records preserved. Phonics/alphabet/grammar-only options and read-word questions retain text-only targets to preserve their learning goals. SVGs are bundled offline.
